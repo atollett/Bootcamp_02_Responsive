@@ -5,3 +5,15 @@ body {
 h1 {
     text-align: center;
 }
+
+.margins {
+    margin-bottom: 40px;
+}
+
+.center {
+    text-align: center;
+}
+
+.marginsLR {
+    margin-right: 30px auto; 
+}
