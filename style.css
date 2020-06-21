@@ -13,3 +13,7 @@ h1, h2 {
 .center {
     text-align: center;
 }
+
+p {
+    font-size: x-large;
+}
